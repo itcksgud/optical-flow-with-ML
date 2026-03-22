@@ -20,6 +20,9 @@
 
   * XGBoost: 81.8%
   * TCN: 95%
+  * <img width="666" height="392" alt="image" src="https://github.com/user-attachments/assets/50024f6b-0173-49b4-9a55-3e5aff9bdea6" />
+  F1-Score: 0.9714
+
 
 ---
 
